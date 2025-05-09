@@ -6,7 +6,6 @@
 # User-specific files
 *.env
 models.py
-models_extended.py
 modelsSRC.py
 
 *.rsuser
